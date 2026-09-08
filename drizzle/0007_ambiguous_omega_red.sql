@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `branch` varchar(160);
